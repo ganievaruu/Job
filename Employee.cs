@@ -16,6 +16,13 @@ namespace Job
         {
             Name = "Brown";
             FirstName = "Roxy";
+
+
+
+
+
+
+            //dtyutyutru
             Salary = 5000;
         }
 
